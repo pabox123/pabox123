@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Software Engineer Student**  
+🔭 &nbsp;I'm currently working on **my Systems Engineering degree**  
 🌱 &nbsp;I'm currently learning **cybersecurity fundamentals**  
 👯 &nbsp;I'm looking to collaborate on **open-source web development projects**  
 🤔 &nbsp;I'm looking for help with **getting started in cybersecurity (labs, CTFs, resources)**  
@@ -51,7 +51,6 @@
   <a href="https://linkedin.com/in/www.linkedin.com/in/miguel-pabon-7710a5412"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/elpabox"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://tiktok.com/@rasputin6372"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:migueljosepbh3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
