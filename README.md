@@ -74,7 +74,7 @@ Uncomment once you have profiles on these platforms and replace the placeholders
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pabox123&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+  <img src="https://github-readme-trophy.vercel.app/?username=pabox123&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
 </p>
 
 ### 🐍 Contribution Snake
