@@ -1,70 +1,100 @@
 <p align="center">
   <a href="https://github.com/pabox123">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4044c4&fontSize=54&height=90&width=602&text=Hello!%20I'm%20pabox" alt="Hello! I&#39;m pabox" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2b2f8f,100:4044c4&height=230&section=header&text=Hello!%20I'm%20pabox&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20student%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18&animation=fadeIn" alt="Hello! I'm pabox" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=550&height=44&lines=Software%20Developer%20%2F%20Monster%20Lover" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2f81f7&center=true&vCenter=true&width=600&height=44&lines=Software+Developer+%2F+Monster+Lover;Systems+Engineering+student;Python%2C+Java%2C+Django+and+SQL;Learning+cybersecurity+fundamentals;Open+to+open-source+web+projects" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
-
-🔭 &nbsp;I'm currently working on **my Systems Engineering degree**  
-🌱 &nbsp;I'm currently learning **cybersecurity fundamentals**  
-👯 &nbsp;I'm looking to collaborate on **open-source web development projects**  
-🤔 &nbsp;I'm looking for help with **getting started in cybersecurity (labs, CTFs, resources)**  
-💬 &nbsp;Ask me about **Python, Java, Django, SQL**  
-⚡ &nbsp;Fun fact: **I'm like a bean under pressure**
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pabox123&label=Profile%20views&color=4044c4&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/pabox123?tab=followers"><img src="https://img.shields.io/github/followers/pabox123?style=for-the-badge&logo=github&logoColor=white&color=4044c4&label=Followers" alt="GitHub followers" /></a>
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/miguel-pabon-7710a5412"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-pabon-7710a5412"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/elpabox"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://tiktok.com/@rasputin6372"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
 
+### 🚀 About Me
+
+```console
+pabox@github:~$ whoami
+pabox, software developer and monster lover
+
+pabox@github:~$ cat now.txt
+studying   Systems Engineering
+learning   cybersecurity fundamentals
+looking    for open-source web development projects to join
+help       getting started in cybersecurity (labs, CTFs, resources)
+ask me     Python, Java, Django, SQL
+
+pabox@github:~$ echo $FUN_FACT
+I'm like a bean under pressure
+```
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <b>Languages</b><br />
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,scala,bash" alt="Python, Java, JavaScript, HTML, CSS, Scala, Bash" />
+  <br /><br />
+  <b>Frameworks</b><br />
+  <img src="https://skillicons.dev/icons?i=django,spring,nextjs,nodejs" alt="Django, Spring, Next.js, Node.js" />
+  <br /><br />
+  <b>Data</b><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,numpy,pandas,pytorch" alt="PostgreSQL, MongoDB, NumPy, pandas, PyTorch" />
+  <br /><br />
+  <b>Tools</b><br />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,postman,figma,notion" alt="Git, GitHub, Linux, IntelliJ IDEA, Postman, Figma, Notion" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+### 🛡️ Cybersecurity, in Progress
+
+I'm learning the fundamentals and looking for labs, CTFs and resources to practice on. If you know a good one, send it my way on [LinkedIn](https://www.linkedin.com/in/miguel-pabon-7710a5412).
+
+<!--
+Uncomment once you have profiles on these platforms and replace the placeholders:
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_ID)
+-->
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=pabox123&show_icons=true&theme=tokyonight&title_color=4044c4&icon_color=4044c4&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=pabox123&layout=compact&theme=tokyonight&title_color=4044c4&icon_color=4044c4&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=pabox123&show_icons=true&theme=tokyonight&title_color=4044c4&icon_color=4044c4&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=pabox123&layout=compact&theme=tokyonight&title_color=4044c4&icon_color=4044c4&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pabox123&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pabox123/pabox123/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pabox123/pabox123/output/github-snake.svg" />
+    <img alt="Contribution snake eating my commits" src="https://raw.githubusercontent.com/pabox123/pabox123/output/github-snake.svg" />
+  </picture>
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=pabox123&bg_color=00000000&color=4044c4&line=4044c4&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=pabox123&bg_color=00000000&color=4044c4&line=4044c4&point=c9d1d9&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
----
 <p align="center"><i>⭐️ From <a href="https://github.com/pabox123">pabox123</a></i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2b2f8f,100:4044c4&height=120&section=footer" alt="Footer wave" width="100%" />
+</p>
