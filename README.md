@@ -40,7 +40,7 @@ I'm like a bean under pressure
 
 <p align="center">
   <b>Languages</b><br />
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,scala,bash" alt="Python, Java, JavaScript, HTML, CSS, Scala, Bash" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,scala,bash,react" alt="Python, Java, JavaScript, HTML, CSS, Scala, Bash, React" />
   <br /><br />
   <b>Frameworks</b><br />
   <img src="https://skillicons.dev/icons?i=django,spring,nextjs,nodejs" alt="Django, Spring, Next.js, Node.js" />
