@@ -40,20 +40,21 @@ I'm like a bean under pressure
 
 <p align="center">
   <b>Languages</b><br />
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,scala,bash,react" alt="Python, Java, JavaScript, HTML, CSS, Scala, Bash, React" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,scala,bash,sql" alt="Python, Java, JavaScript, HTML, CSS, Scala, Bash, SQL" />
   <br /><br />
   <b>Frameworks</b><br />
-  <img src="https://skillicons.dev/icons?i=django,spring,nextjs,nodejs" alt="Django, Spring, Next.js, Node.js" />
+  <img src="https://skillicons.dev/icons?i=django,spring,fastapi,react" alt="Django, Spring, FastAPI, React" />
   <br /><br />
   <b>Data</b><br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,numpy,pandas,pytorch" alt="PostgreSQL, MongoDB, NumPy, pandas, PyTorch" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,pytorch,tensorflow" alt="PostgreSQL, MongoDB, PyTorch, TensorFlow " />
   <br /><br />
   <b>Tools</b><br />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,postman,figma,notion" alt="Git, GitHub, Linux, IntelliJ IDEA, Postman, Figma, Notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode,postman,figma,notion" alt="Git, GitHub, Linux, IntelliJ IDEA, VS Code, Postman, Figma, Notion" />
   <br /><br />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-</p>
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>   
 
 ### 🛡️ Cybersecurity, in Progress
 
